@@ -37,7 +37,7 @@ git clone https://github.com/jura1243/CPU-Architecture-Detector.git
 cd CPU-Architecture-Detector
 
 # Run detector
-python cpu_detector.py
+python ./cpu_detector.py
 ```
 
 ## Output Examples
